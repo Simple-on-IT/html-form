@@ -15,4 +15,4 @@
 
 ## Дополнительные материалы:
 Документация - https://developer.mozilla.org/en-US/docs/Web/HTML/Element  
-Видео - 
+Видео - https://youtube.com/shorts/96H45Uf0_hQ?feature=share
